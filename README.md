@@ -1,16 +1,75 @@
-## Hi there 👋
+# 👋 Hi, I'm Alex
 
-<!--
-**Alex-Xav-Ch/Alex-Xav-Ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 Future Full Stack Developer | Constantly learning</h3>
+<p align="center">💻 Information Systems Engineering Student</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Java;Building+real-world+systems;Always+learning+new+technologies&center=true&width=500&height=45">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About me
+- 🌱 Currently learning: React, Node.js  
+- 🔥 Interested in: web development, automation, and scalable systems  
+- ⚡ Focused on building real-world solutions (Full Stack)  
+
+---
+
+## 🛠️ Technologies (Full Stack)
+
+### 🎨 Frontend
+<p>
+  React ⚛️ ▰▰▱▱▱▱▱▱▱▱ 20%<br>
+  HTML 🧱 ▰▰▰▰▱▱▱▱▱▱ 40%<br>
+  CSS 🎨 ▰▰▰▰▱▱▱▱▱▱ 40%<br>
+  JavaScript 🟨 ▰▰▰▰▱▱▱▱▱▱ 40%<br>
+  Bootstrap 🅱️ ▰▰▰▱▱▱▱▱▱▱ 30%
+</p>
+
+---
+
+### ⚙️ Backend
+<p>
+  Node.js 🟢 ▰▰▰▱▱▱▱▱▱▱ 30%<br>
+  Java ☕ ▰▰▰▰▰▰▰▱▱▱ 70%<br>
+  Spring Boot 🌱 ▰▰▰▰▰▱▱▱▱▱ 50%<br>
+  Python 🐍 ▰▰▰▰▰▰▱▱▱▱ 60%<br>
+  Django 🌿 ▰▰▰▰▱▱▱▱▱▱ 40%
+</p>
+
+---
+
+### 🗄️ Databases
+<p>
+  PostgreSQL 🐘 ▰▰▰▰▰▰▰▱▱▱ 70%<br>
+  MySQL 🐬 ▰▰▰▰▰▰▰▱▱▱ 70%<br>
+  MongoDB 🍃 ▰▰▰▰▰▱▱▱▱▱ 50%<br>
+  Redis 🔴 ▰▰▰▰▰▱▱▱▱▱ 50%
+</p>
+
+---
+
+### ☁️ DevOps & Tools
+<p>
+  Git & GitHub 🐙 ▰▰▰▰▰▰▰▰▱▱ 80%<br>
+  Docker 🐳 ▰▰▰▰▰▱▱▱▱▱ 50%<br>
+  Linux 🐧 ▰▰▰▰▰▱▱▱▱▱ 50%<br>
+  Nginx 🌐 ▰▰▰▱▱▱▱▱▱▱ 30%<br>
+  Postman 📮 ▰▰▰▰▰▱▱▱▱▱ 50%
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlexTemAlex&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlexTemAlex&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+</p>
+
+---
+
+## 🔥 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexTemAlex&theme=tokyo-night" />
+</p>
